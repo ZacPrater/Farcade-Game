@@ -1,0 +1,33 @@
+Input - Create a Space Invaders Game where the player controls a spaceship that shoots missiles to destroy their enemies
+
+Farcade Return 
+
+Game Concept:
+Create a modern, mobile-friendly take on the classic Space Invaders, featuring smooth touch controls and responsive design. The player controls a defensive spaceship at the bottom of the screen, shooting upward at waves of descending enemy ships.
+
+Game Requirements:
+- Single HTML file with embedded CSS and JavaScript
+- Responsive canvas (max-width: 500px, max-height: 1000px)
+- Player spaceship at bottom with horizontal movement
+- Touch controls: slide finger to move, tap screen to shoot
+- Desktop: Arrow keys/WASD for movement, spacebar to shoot
+- Enemy grid formation (5x6) that moves side-to-side and down
+- Enemy ships fire randomly at player
+- Three lives system with visual indicators
+- Score display in top corner
+- Power-ups: rapid fire, shield, multi-shot
+- Game over screen with final score and restart option
+- High score persistence using localStorage
+- Geometric shapes for all game elements
+- Particle effects for explosions
+- Portrait orientation optimization
+- Touch-friendly UI elements (min 44x44px)
+- Proper pixel ratio handling for sharp graphics
+- Simple collision detection system
+- Progressive difficulty (enemies move faster each wave)
+- Clean, modern visual style with bold colors
+- Smooth animations for movement and effects
+
+Please provide the COMPLETE HTML file with all the code embedded.
+
+
